@@ -7,23 +7,19 @@ Lele Zhao<sup>1</sup>,
 <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=1&user=YULTfcYAAAAJ" target="_blank">Anel Nurtay</a><sup>1</sup>,
 <a href="https://www.medawar.ox.ac.uk/team/david-bonsall" target="_blank">David Bonsall</a><sup>1,2</sup> 
 and
-<a href="https://www.bdi.ox.ac.uk/Team/christophe-fraser" target="_blank">Christophe Fraser</a><sup>1,3\†</sup>
+<a href="https://www.bdi.ox.ac.uk/Team/christophe-fraser" target="_blank">Christophe Fraser</a><sup>1,3†</sup>
 
 <sup>\*</sup>contributed equally
 
-<sup>\†</sup> To whom correspondence should be addressed: christophe.fraser@bdi.ox.ac.uk
+<sup>†</sup> To whom correspondence should be addressed: christophe.fraser@bdi.ox.ac.uk
 
 <sup>1</sup>
 <a href="https://www.bdi.ox.ac.uk/" target="_blank">Big Data Institute</a>, 
 <a href="http://www.ox.ac.uk/" target="_blank">University of Oxford</a>, 
-UK
-
-<sup>2</sup>
+UK, <sup>2</sup>
 <a href="https://www.ouh.nhs.uk/" target="_blank">Oxford University NHS Trust</a>,
 <a href="http://www.ox.ac.uk/" target="_blank">University of Oxford</a>, 
-UK 
-
-<sup>3</sup>
+UK, <sup>3</sup>
 <a href="https://www.well.ox.ac.uk/" target="_blank">Wellcome Centre for Human Genetics</a>,
 <a href="http://www.ox.ac.uk/" target="_blank">University of Oxford</a>, 
 UK
