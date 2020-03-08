@@ -9,9 +9,7 @@ Lele Zhao<sup>1</sup>,
 and
 <a href="https://www.bdi.ox.ac.uk/Team/christophe-fraser" target="_blank">Christophe Fraser</a><sup>1,3†</sup>
 
-<sup>\*</sup>contributed equally
-
-<sup>†</sup> To whom correspondence should be addressed: christophe.fraser@bdi.ox.ac.uk
+<sup>\*</sup>contributed equally; <sup>†</sup> To whom correspondence should be addressed: christophe.fraser@bdi.ox.ac.uk
 
 <sup>1</sup>
 <a href="https://www.bdi.ox.ac.uk/" target="_blank">Big Data Institute</a>, 
