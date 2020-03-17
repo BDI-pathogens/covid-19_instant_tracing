@@ -1,4 +1,4 @@
-This repository contains (in the box immediately above) two preprints from the BDI pathogens group concerning COVID-19:
+This repository contains two preprints from the BDI pathogens group concerning COVID-19:
 
 # <a href="https://github.com/BDI-pathogens/covid-19_instant_tracing/blob/master/Manuscript%20-%20Modelling%20instantaneous%20digital%20contact%20tracing.pdf" target="_blank">Quantifying dynamics of SARS-CoV-2 transmission suggests that epidemic control and avoidance is feasible through instantaneous digital contact tracing</a>
 
