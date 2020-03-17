@@ -1,4 +1,4 @@
-This repository contains two preprints from the BDI pathogens group concerning COVID-19:
+This repository contains (in the box immediately above) two preprints from the BDI pathogens group concerning COVID-19:
 
 # Quantifying dynamics of SARS-CoV-2 transmission suggests that epidemic control and avoidance is feasible through instantaneous digital contact tracing
 
