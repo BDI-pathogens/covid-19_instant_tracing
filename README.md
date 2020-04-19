@@ -1,6 +1,6 @@
 For an overview of the BDI pathogens group's work on sustainable containment of covid-19 please see <a href="https://045.medsci.ox.ac.uk/" target="_blank"> our website</a>.
 For the details, this repository contains a report and two preprints.
-The two preprints are now published in <a href="https://doi.org/10.1126/science.abb6936" target="_blank">*Science*</a>
+The two preprints are now published in <a href="https://doi.org/10.1126/science.abb6936" target="_blank">*Science*</a>.
 
 # <a href="https://github.com/BDI-pathogens/covid-19_instant_tracing/blob/master/Report%20-%20Effective%20Configurations%20of%20a%20Digital%20Contact%20Tracing%20App.pdf" target="_blank">Effective Configurations of a Digital Contact Tracing App: A report to NHSX</a>
 
