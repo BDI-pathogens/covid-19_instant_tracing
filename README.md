@@ -1,5 +1,47 @@
 For an overview of the BDI pathogens group's work on sustainable containment of covid-19 please see <a href="https://045.medsci.ox.ac.uk/" target="_blank"> our website</a>.
-For the details, this repository contains two preprints:
+For the details, this repository contains a report and two preprints.
+The two preprints are now published in <a href="https://doi.org/10.1126/science.abb6936" target="_blank">*Science*</a>
+
+# <a href="https://github.com/BDI-pathogens/covid-19_instant_tracing/blob/master/Report%20-%20Effective%20Configurations%20of%20a%20Digital%20Contact%20Tracing%20App.pdf" target="_blank">Effective Configurations of a Digital Contact Tracing App: A report to NHSX</a>
+
+<a href="https://www.linkedin.com/in/robert-hinch-16188511/?originalSubdomain=uk" target="_blank">Robert Hinch</a><sup>1\*</sup>,
+<a href="https://www.linkedin.com/in/will-probert-82595827/?originalSubdomain=uk" target="_blank">Will Probert</a><sup>1\*</sup>,
+<a href="https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=1&user=YULTfcYAAAAJ" target="_blank">Anel Nurtay</a><sup>1</sup>,
+<a href="https://michellekendall.github.io/" target="_blank">Michelle Kendall</a><sup>1</sup>,
+<a href="https://www.bdi.ox.ac.uk/Team/c-wymant" target="_blank">Chris Wymant</a><sup>1\*</sup>,
+<a href="https://www.bdi.ox.ac.uk/Team/matthew-hall" target="_blank">Matthew Hall</a><sup>1\*</sup>,
+<a href="https://www.bdi.ox.ac.uk/Team/katrina-lythgoe" target="_blank">Katrina Lythgoe</a><sup>1\*</sup>,
+<a href="https://github.com/abulascruz?language=jupyter+notebook&tab=stars" target="_blank">Ana Bulas Cruz</a><sup>1\*</sup>,
+Lele Zhao<sup>1</sup>,
+<a href="https://www.linkedin.com/in/andrea-stewart-64a15b1/" target="_blank">Andrea Stewart</a><sup>1\*</sup>,
+<a href="https://www.ndph.ox.ac.uk/team/michael-parker" target="_blank">Michael Parker</a><sup>2</sup>
+Ares Meroueh<sup>3</sup>,
+Bryn Mathias<sup>3</sup>,
+Scott Stevenson<sup>3</sup>,
+Daniel Montero<sup>4</sup>,
+James Warren<sup>4</sup>,
+Nicole K Mather<sup>4</sup>,
+Anthony Finkelstein<sup>5</sup>,
+<a href="https://www.bdi.ox.ac.uk/Team/lucie-abeler-dorner" target="_blank">Lucie Abeler-Dörner</a><sup>1</sup>,
+<a href="https://www.medawar.ox.ac.uk/team/david-bonsall" target="_blank">David Bonsall</a><sup>1</sup>
+<a href="https://www.bdi.ox.ac.uk/Team/christophe-fraser" target="_blank">Christophe Fraser</a><sup>1</sup>
+
+<sup>1</sup>
+<a href="https://www.bdi.ox.ac.uk/" target="_blank">Big Data Institute</a>,
+<a href="http://www.ox.ac.uk/" target="_blank">University of Oxford</a>,
+UK,
+<sup>2</sup>
+<a href="https://www.ethox.ox.ac.uk/Our-research/major-programmes/the-wellcome-centre-for-ethics-and-humanities" target="_blank">Wellcome Centre for Ethics and the Humanities and Ethox Centre</a>,
+<a href="http://www.ox.ac.uk/" target="_blank">University of Oxford</a>,
+UK
+<sup>3</sup>
+<a href="https://faculty.ai/" target="_blank">faculty.ai</a>,
+<sup>4</sup>
+<a href="https://www.ibm.com/uk-en" target="_blank">IBM UK</a>,
+<sup>5</sup>
+<a href="https://www.turing.ac.uk/" target="_blank">UCL / Alan Turing Institute</a>,
+
+The overarching objective of this report is to present simulations that will support the deployment and optimisation of digital contact tracing within an established programme of epidemic mitigation and control, and specifically to explore the conditions for success as countries prepare for exit from lockdowns. A lockdown can be regarded as a quarantine applied broadly to most of the population, excluding only key workers for example, whereas digital contact tracing can limit quarantine requests to those most at risk of transmitting the virus.
 
 # <a href="https://github.com/BDI-pathogens/covid-19_instant_tracing/blob/master/Manuscript%20-%20Modelling%20instantaneous%20digital%20contact%20tracing.pdf" target="_blank">Quantifying dynamics of SARS-CoV-2 transmission suggests that epidemic control and avoidance is feasible through instantaneous digital contact tracing</a>
 
@@ -47,7 +89,7 @@ UK,
 <sup>3</sup>
 <a href="https://www.ethox.ox.ac.uk/Our-research/major-programmes/the-wellcome-centre-for-ethics-and-humanities" target="_blank">Wellcome Centre for Ethics and the Humanities and Ethox Centre</a>,
 <a href="http://www.ox.ac.uk/" target="_blank">University of Oxford</a>,
-UK
+UK,
 <sup>4</sup>
 <a href="https://www.well.ox.ac.uk/" target="_blank">Wellcome Centre for Human Genetics</a>,
 <a href="http://www.ox.ac.uk/" target="_blank">University of Oxford</a>,
