@@ -4,16 +4,16 @@ The two preprints are now published in <a href="https://doi.org/10.1126/science.
 
 # <a href="https://github.com/BDI-pathogens/covid-19_instant_tracing/blob/master/Report%20-%20Effective%20Configurations%20of%20a%20Digital%20Contact%20Tracing%20App.pdf" target="_blank">Effective Configurations of a Digital Contact Tracing App: A report to NHSX</a>
 
-<a href="https://www.linkedin.com/in/robert-hinch-16188511/?originalSubdomain=uk" target="_blank">Robert Hinch</a><sup>1\*</sup>,
-<a href="https://www.linkedin.com/in/will-probert-82595827/?originalSubdomain=uk" target="_blank">Will Probert</a><sup>1\*</sup>,
+<a href="https://www.linkedin.com/in/robert-hinch-16188511/?originalSubdomain=uk" target="_blank">Robert Hinch</a><sup>1</sup>,
+<a href="https://www.linkedin.com/in/will-probert-82595827/?originalSubdomain=uk" target="_blank">Will Probert</a><sup>1</sup>,
 <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=1&user=YULTfcYAAAAJ" target="_blank">Anel Nurtay</a><sup>1</sup>,
 <a href="https://michellekendall.github.io/" target="_blank">Michelle Kendall</a><sup>1</sup>,
-<a href="https://www.bdi.ox.ac.uk/Team/c-wymant" target="_blank">Chris Wymant</a><sup>1\*</sup>,
-<a href="https://www.bdi.ox.ac.uk/Team/matthew-hall" target="_blank">Matthew Hall</a><sup>1\*</sup>,
-<a href="https://www.bdi.ox.ac.uk/Team/katrina-lythgoe" target="_blank">Katrina Lythgoe</a><sup>1\*</sup>,
-<a href="https://github.com/abulascruz?language=jupyter+notebook&tab=stars" target="_blank">Ana Bulas Cruz</a><sup>1\*</sup>,
+<a href="https://www.bdi.ox.ac.uk/Team/c-wymant" target="_blank">Chris Wymant</a><sup>1</sup>,
+<a href="https://www.bdi.ox.ac.uk/Team/matthew-hall" target="_blank">Matthew Hall</a><sup>1</sup>,
+<a href="https://www.bdi.ox.ac.uk/Team/katrina-lythgoe" target="_blank">Katrina Lythgoe</a><sup>1</sup>,
+<a href="https://github.com/abulascruz?language=jupyter+notebook&tab=stars" target="_blank">Ana Bulas Cruz</a><sup>1</sup>,
 Lele Zhao<sup>1</sup>,
-<a href="https://www.linkedin.com/in/andrea-stewart-64a15b1/" target="_blank">Andrea Stewart</a><sup>1\*</sup>,
+<a href="https://www.linkedin.com/in/andrea-stewart-64a15b1/" target="_blank">Andrea Stewart</a><sup>1</sup>,
 <a href="https://www.ndph.ox.ac.uk/team/michael-parker" target="_blank">Michael Parker</a><sup>2</sup>
 Ares Meroueh<sup>3</sup>,
 Bryn Mathias<sup>3</sup>,
