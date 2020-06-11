@@ -15,13 +15,10 @@ The two preprints are now published in <a href="https://doi.org/10.1126/science.
 Lele Zhao<sup>1</sup>,
 <a href="https://www.linkedin.com/in/andrea-stewart-64a15b1/" target="_blank">Andrea Stewart</a><sup>1</sup>,
 <a href="https://www.ndph.ox.ac.uk/team/michael-parker" target="_blank">Michael Parker</a><sup>2</sup>
-Ares Meroueh<sup>3</sup>,
-Bryn Mathias<sup>3</sup>,
-Scott Stevenson<sup>3</sup>,
-Daniel Montero<sup>4</sup>,
-James Warren<sup>4</sup>,
-Nicole K Mather<sup>4</sup>,
-Anthony Finkelstein<sup>5</sup>,
+Daniel Montero<sup>3</sup>,
+James Warren<sup>3</sup>,
+Nicole K Mather<sup>3</sup>,
+Anthony Finkelstein<sup>4</sup>,
 <a href="https://www.bdi.ox.ac.uk/Team/lucie-abeler-dorner" target="_blank">Lucie Abeler-Dörner</a><sup>1</sup>,
 <a href="https://www.medawar.ox.ac.uk/team/david-bonsall" target="_blank">David Bonsall</a><sup>1</sup>
 <a href="https://www.bdi.ox.ac.uk/Team/christophe-fraser" target="_blank">Christophe Fraser</a><sup>1</sup>
@@ -35,10 +32,8 @@ UK,
 <a href="http://www.ox.ac.uk/" target="_blank">University of Oxford</a>,
 UK
 <sup>3</sup>
-<a href="https://faculty.ai/" target="_blank">faculty.ai</a>,
-<sup>4</sup>
 <a href="https://www.ibm.com/uk-en" target="_blank">IBM UK</a>,
-<sup>5</sup>
+<sup>4</sup>
 <a href="https://www.turing.ac.uk/" target="_blank">UCL / Alan Turing Institute</a>,
 
 The overarching objective of this report is to present simulations that will support the deployment and optimisation of digital contact tracing within an established programme of epidemic mitigation and control, and specifically to explore the conditions for success as countries prepare for exit from lockdowns. A lockdown can be regarded as a quarantine applied broadly to most of the population, excluding only key workers for example, whereas digital contact tracing can limit quarantine requests to those most at risk of transmitting the virus.
