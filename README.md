@@ -2,7 +2,7 @@ For an overview of the BDI pathogens group's work on sustainable containment of 
 This repository contains detailed reports and preprints.
 The two preprints are now published in <a href="https://doi.org/10.1126/science.abb6936" target="_blank">*Science*</a>.
 
-# <a href="https://github.com/BDI-pathogens/covid-19_instant_tracing/blob/master/Report%20-%20Effective%20Configurations%20of%20a%20Digital%20Contact%20Tracing%20App.pdf" target="_blank">Effective Configurations of a Digital Contact Tracing App: A report to NHSX</a>
+# <a href="https://github.com/BDI-pathogens/covid-19_instant_tracing/blob/master/Report%20-%20Effective%20Configurations%20of%20a%20Digital%20Contact%20Tracing%20App.pdf" target="_blank">Effective configurations of a digital contact tracing app: A report to NHSX</a>
 
 <a href="https://www.linkedin.com/in/robert-hinch-16188511/?originalSubdomain=uk" target="_blank">Robert Hinch</a><sup>1</sup>,
 <a href="https://www.linkedin.com/in/will-probert-82595827/?originalSubdomain=uk" target="_blank">Will Probert</a><sup>1</sup>,
@@ -34,7 +34,7 @@ UK
 <sup>3</sup>
 <a href="https://www.ibm.com/uk-en" target="_blank">IBM UK</a>,
 <sup>4</sup>
-<a href="https://www.turing.ac.uk/" target="_blank">UCL / Alan Turing Institute</a>,
+<a href="https://www.turing.ac.uk/" target="_blank">UCL / Alan Turing Institute</a>.
 
 The overarching objective of this report is to present simulations that will support the deployment and optimisation of digital contact tracing within an established programme of epidemic mitigation and control, and specifically to explore the conditions for success as countries prepare for exit from lockdowns. A lockdown can be regarded as a quarantine applied broadly to most of the population, excluding only key workers for example, whereas digital contact tracing can limit quarantine requests to those most at risk of transmitting the virus.
 
