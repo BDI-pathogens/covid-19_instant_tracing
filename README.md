@@ -8,8 +8,8 @@ This repository contains detailed reports and preprints.
 Daphne Tsallis<sup>2</sup>,
 <a href="https://www.turing.ac.uk/people/researchers/marcos-charalambides" target="_blank">Marcos Charalambides</a><sup>3</sup>,
 <a href="https://www.bdi.ox.ac.uk/Team/lucie-abeler-dorner" target="_blank">Lucie Abeler-Dörner</a><sup>1</sup>,
-<a href="https://www.medawar.ox.ac.uk/team/david-bonsall" target="_blank">David Bonsall</a><sup>1</sup>
-<a href="https://www.linkedin.com/in/robert-hinch-16188511/?originalSubdomain=uk" target="_blank">Robert Hinch</a><sup>1</sup>,
+<a href="https://www.medawar.ox.ac.uk/team/david-bonsall" target="_blank">David Bonsall</a><sup>1</sup>,
+Robert Hinch<sup>1</sup>,
 <a href="https://michellekendall.github.io/" target="_blank">Michelle Kendall</a><sup>1,4</sup>,
 Luke Milsom<sup>5</sup>,
 Matthew Ayres<sup>3</sup>,
@@ -26,13 +26,13 @@ UK
 <sup>2</sup>
 Zuehlke Engineering Ltd., London, UK  
 <sup>3</sup>
-<a href="https://www.turing.ac.uk/" target="_blank">The Alan Turing Institute</a>,
+<a href="https://www.turing.ac.uk/" target="_blank">The Alan Turing Institute</a>, London, UK  
 <sup>4</sup>
-<a href="https://warwick.ac.uk/fac/sci/statistics/" target="_blank">Department of Statistics, University of Warwick, Coventry, UK</a>  
+<a href="https://warwick.ac.uk/fac/sci/statistics/" target="_blank">Department of Statistics, University of Warwick</a>, Coventry, UK  
 <sup>5</sup>
-<a href="https://www.economics.ox.ac.uk/" target="_blank">Department of Economics, University of Oxford, Oxford, UK</a>  
+<a href="https://www.economics.ox.ac.uk/" target="_blank">Department of Economics, University of Oxford</a>, Oxford, UK  
 <sup>6</sup>
-<a href="https://www.stats.ox.ac.uk/" target="_blank">Department of Statistics, University of Oxford, Oxford, UK</a>  
+<a href="https://www.stats.ox.ac.uk/" target="_blank">Department of Statistics, University of Oxford</a>, Oxford, UK  
 
 ### Abstract
 Since its launch on 24 September 2020, the NHS COVID-19 app has been downloaded to over 21 million phones, and used regularly by approximately 16.5 million users in England and Wales, which is 49% of the eligible population with compatible phones, and 28% of the total population. The main epidemiological impact of the app to date has been from the exposure notification function, which automates contact tracing from confirmed cases based on digital measurements of proximity events between phones. The app sent 1.7 million exposure notifications: 3.2 per index case, or 4.4 per index case who consented to be contact traced. We estimated that 6.1% of app-notified individuals subsequently tested positive (the secondary attack rate, SAR), comparable to the SAR for manual contact tracing (7.3% for close contacts and 13.5% for direct contacts). We estimated infected cases averted by the app in October-December 2020 using two conceptually complementary approaches. Modelling based on the observed notifications and SAR yielded 284,000 (224,000-344,000) averted cases, whilst statistical comparison of matched neighbouring local authorities yielded 594,000 (317,000-914,000) averted cases, i.e. about one case averted for each case consenting to notification of their contacts through the app. Improvements in the app notification system gave increased epidemiological effectiveness of the app, further supporting evidence for an effect of the app. We estimated that for every 1% increase in app users, the number of infections can be reduced by 0.8% (from modelling) or 2.3% (from statistical analysis).
